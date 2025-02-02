@@ -4,5 +4,6 @@
 *.flac
 *._.DS_Store
 *.au
+*.pdf
 
 .mscbackup/*

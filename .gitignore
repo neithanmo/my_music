@@ -5,5 +5,8 @@
 *._.DS_Store
 *.au
 *.pdf
+*.mxl
+*.tar
 
 .mscbackup/*
+piano/.mscbackup/*
